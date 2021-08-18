@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/rnimn/GradientDescent.git/static/css/main.bb119066.chunk.css",
-    "main.js": "/rnimn/GradientDescent.git/static/js/main.c3b3c9c9.chunk.js",
-    "main.js.map": "/rnimn/GradientDescent.git/static/js/main.c3b3c9c9.chunk.js.map",
-    "runtime-main.js": "/rnimn/GradientDescent.git/static/js/runtime-main.7b54e1cf.js",
-    "runtime-main.js.map": "/rnimn/GradientDescent.git/static/js/runtime-main.7b54e1cf.js.map",
-    "static/js/2.605d1c1a.chunk.js": "/rnimn/GradientDescent.git/static/js/2.605d1c1a.chunk.js",
-    "static/js/2.605d1c1a.chunk.js.map": "/rnimn/GradientDescent.git/static/js/2.605d1c1a.chunk.js.map",
-    "index.html": "/rnimn/GradientDescent.git/index.html",
-    "static/css/main.bb119066.chunk.css.map": "/rnimn/GradientDescent.git/static/css/main.bb119066.chunk.css.map",
-    "static/js/2.605d1c1a.chunk.js.LICENSE.txt": "/rnimn/GradientDescent.git/static/js/2.605d1c1a.chunk.js.LICENSE.txt"
+    "main.css": "/GradientDescent/static/css/main.bb119066.chunk.css",
+    "main.js": "/GradientDescent/static/js/main.c3b3c9c9.chunk.js",
+    "main.js.map": "/GradientDescent/static/js/main.c3b3c9c9.chunk.js.map",
+    "runtime-main.js": "/GradientDescent/static/js/runtime-main.8fa5d940.js",
+    "runtime-main.js.map": "/GradientDescent/static/js/runtime-main.8fa5d940.js.map",
+    "static/js/2.605d1c1a.chunk.js": "/GradientDescent/static/js/2.605d1c1a.chunk.js",
+    "static/js/2.605d1c1a.chunk.js.map": "/GradientDescent/static/js/2.605d1c1a.chunk.js.map",
+    "index.html": "/GradientDescent/index.html",
+    "static/css/main.bb119066.chunk.css.map": "/GradientDescent/static/css/main.bb119066.chunk.css.map",
+    "static/js/2.605d1c1a.chunk.js.LICENSE.txt": "/GradientDescent/static/js/2.605d1c1a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.7b54e1cf.js",
+    "static/js/runtime-main.8fa5d940.js",
     "static/js/2.605d1c1a.chunk.js",
     "static/css/main.bb119066.chunk.css",
     "static/js/main.c3b3c9c9.chunk.js"
